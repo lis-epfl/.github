@@ -1,14 +1,10 @@
-## Hi, welcome to the code repository of the Laboratory of Intelligent Systems
+## [Laboratory of Intelligent Systems](https://www.epfl.ch/labs/lis/) @ EPFL 🇨🇭 
 
-You can find projects of our research below and on our [webpage](https://www.epfl.ch/labs/lis/).
+We explore future avenues of artificial intelligence and robotics at the convergence of biology and engineering, humans and machines.
 
-<!--
+Our research directions:
+- **Aerial Robotics**: We take inspiration from nature and study, design, and control of agile aerial robots with rich sensory and motor abilities that can move and work in very different environments
+- **Wearable Robotics**: We investigate and develop novel soft wearable robots for natural interactions and symbiosis between humans and robots.
+- **Soft Robotics**: We are interested in the study, design, and control of soft robotic technologies that amplify the sensory-motor capabilities and human interaction of robots without increasing their complexity and weight.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+You can find further information on our [research page](https://www.epfl.ch/labs/lis/research/), [Google Scholar](https://scholar.google.com/citations?user=a5MoXOYAAAAJ&hl=en&oi=ao) and here on GitHub.
