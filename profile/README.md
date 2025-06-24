@@ -1,3 +1,5 @@
+![Open Source at Microsoft](https://github.com/lis-epfl/.github/blob/main/images/banner.png) 
+
 ## [Laboratory of Intelligent Systems](https://www.epfl.ch/labs/lis/) @ EPFL 🇨🇭 
 
 We explore future avenues of artificial intelligence and robotics at the convergence of biology and engineering, humans and machines.
